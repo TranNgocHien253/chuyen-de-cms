@@ -1,0 +1,4 @@
+lấy soucre thư viện laravel trên git về 
+git clone "link soucre"
+mở terminal gõ lệnh composer update để hiện ra file ẩn
+xóa đuôi các file ẩn vd: file .env
